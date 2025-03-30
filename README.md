@@ -121,4 +121,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-For questions or support, please contact the development team at support@invisibleartgallery.com 
+For questions or support, please contact the development team at sameergul321@gmail.com 
